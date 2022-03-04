@@ -1,4 +1,4 @@
-module github.com/Ovenoboyo/qBittorrent_dual_boot
+module github.com/Ovenoboyo/qbitorrent_convert
 
 go 1.17
 
