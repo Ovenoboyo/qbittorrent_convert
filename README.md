@@ -68,7 +68,7 @@ For qBittorrent to correctly identify where your file is stored, paths will need
 
 To do this
 
-- Download **qbittorrent_convert** from Releases section
+- Download **qbittorrent_convert** from [Releases section](/Ovenoboyo/qbittorrent_convert/releases/download/v1.0.0/qbittorrent_convert)
 - Put **qbittorrent_convert** inside 
   - ``` ~/.local/bin ``` (If you want it for the current user only)
   - ``` /usr/bin ``` (if you want it for your whole system)
